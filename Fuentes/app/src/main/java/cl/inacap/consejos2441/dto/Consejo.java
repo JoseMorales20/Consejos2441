@@ -1,11 +1,22 @@
 package cl.inacap.consejos2441.dto;
 
+import android.widget.Spinner;
+
 public class Consejo {
 
     private String quote;
     private String character;
     private String image;
     private String characterDirection;
+    private String spinner;
+
+    public String getSpinner() {
+        return spinner;
+    }
+
+    public void setNumero(String spinner) {
+        this.spinner = spinner;
+    }
 
     public String getQuote() {
         return quote;

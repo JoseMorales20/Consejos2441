@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="imagenLogo">50dp</dimen>
+    <dimen name="imagenLogo">70dp</dimen>
+    <dimen name="imagenLogo2">80dp</dimen>
 </resources>
